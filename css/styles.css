@@ -41,13 +41,17 @@ ol {
   color: #404bbf;
 }
 
+addres {
+  font-style: normal;
+}
+
 .address {
   font-family: Roboto, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  font-style: normal;
+
   color: #434455;
 }
 
@@ -108,6 +112,7 @@ ol {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
@@ -137,6 +142,7 @@ ol {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
